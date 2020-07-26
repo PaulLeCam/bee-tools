@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "lib": ["es2018.asynciterable", "es2020.bigint"]
+  }
+}
